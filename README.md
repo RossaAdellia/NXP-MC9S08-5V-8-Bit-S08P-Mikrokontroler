@@ -49,4 +49,4 @@ Mikrokontroler ini digunakan dalam berbagai perangkat yang membutuhkan kontrol s
 - Sistem IoT – Node IoT dengan konektivitas serial atau sensor terintegrasi
 
 Kesimpulan
-Mikrokontroler NXP MC9S08 - 5V - 8-Bit - S08P adalah solusi hemat daya, berperforma stabil, dan tahan terhadap noise, yang cocok untuk berbagai aplikasi industri dan rumah tangga. Dengan tegangan operasi 5V, mikrokontroler ini ideal untuk perangkat yang membutuhkan keandalan lebih tinggi dalam lingkungan yang penuh gangguan listrik. 🚀
+Mikrokontroler NXP MC9S08 - 5V - 8-Bit - S08P adalah solusi hemat daya, berperforma stabil, dan tahan terhadap noise, yang cocok untuk berbagai aplikasi industri dan rumah tangga. Dengan tegangan operasi 5V, mikrokontroler ini ideal untuk perangkat yang membutuhkan keandalan lebih tinggi dalam lingkungan yang penuh gangguan listrik. 
