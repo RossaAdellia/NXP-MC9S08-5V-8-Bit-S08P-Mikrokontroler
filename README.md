@@ -1,0 +1,4 @@
+# Penjelasan NXP-MC9S08-5V-8-Bit-S08P-Mikrokontroler
+
+Mikrokontroler (MCU) MC9S08 5V 8-Bit S08P dari NXP Semiconductors menghadirkan ketahanan dan keandalan pada desain untuk lingkungan industri yang keras. Seri MC9S08 adalah keluarga MCU yang dapat diskalakan dan kompatibel dengan pin yang menawarkan kinerja EFT/ESD yang luar biasa. Perangkat tersebut menggunakan kembali inti, IP, dan alat S08 yang ada untuk memudahkan migrasi dari produk S08 8-bit yang ada.
+MCU Semikonduktor NXP ini memiliki antarmuka penginderaan sentuh (TSI) dan EEPROM untuk menyederhanakan desain dan mengurangi biaya sistem. Beragam pilihan fitur/harga tersedia untuk diferensiasi produk. Pilih kelas PT yang mendukung TSI (antarmuka penginderaan sentuh) berfitur lengkap, kelas PA berfitur lengkap tanpa TSI, atau kelas PL dasar untuk aplikasi yang sensitif terhadap biaya.
